@@ -1,0 +1,20 @@
+#clr{
+width: 170px;
+}
+h2{
+    color: #0b28a9;
+}
+.formstyle{
+    width: 170px;
+    height:340px;
+    margin: auto;
+    border: 3px solid black;
+    background-color: aqua;
+}
+input{
+    /* width: 30px; */
+    background-color: rgb(14, 220, 79);
+}
+button{
+    width: 50px;
+}
